@@ -1,0 +1,1 @@
+postgresql://aadi:Esaee9oOCsE9NQRJi9DXITfMTADhJav2@dpg-davmb1c9v7es738bpkl0-a.singapore-postgres.render.com/ryoko
